@@ -1,0 +1,26 @@
+[
+    {
+        "id": 101,
+        "name": "Sarah",
+        "age": "26",
+        "disease": "Fever"
+    },
+    {
+        "id": 102,
+        "name": "Ahmed",
+        "age": "31",
+        "disease": "Flu"
+    },
+    {
+        "id": 103,
+        "name": "Fahad",
+        "age": "20",
+        "disease": "Food poisoning"
+    },
+    {
+        "id": 104,
+        "name": "Fatima",
+        "age": "14",
+        "disease": "Cough"
+    }
+]
