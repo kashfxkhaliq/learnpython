@@ -1,0 +1,62 @@
+{
+    "company": {
+        "name": "Tech Solutions",
+        "founded": 2015,
+        "employees": [
+            {
+                "id": 101,
+                "name": "Ali",
+                "department": "Engineering",
+                "skills": [
+                    "Python",
+                    "Django",
+                    "AWS"
+                ],
+                "projects": [
+                    {
+                        "project_id": "P001",
+                        "name": "Inventory System",
+                        "status": "Completed"
+                    },
+                    {
+                        "project_id": "P002",
+                        "name": "AI Chatbot",
+                        "status": "In Progress"
+                    }
+                ]
+            },
+            {
+                "id": 102,
+                "name": "Sara",
+                "department": "Marketing",
+                "skills": [
+                    "SEO",
+                    "Content Writing"
+                ],
+                "projects": [
+                    {
+                        "project_id": "P003",
+                        "name": "Brand Campaign",
+                        "status": "Completed"
+                    }
+                ]
+            }
+        ],
+        "offices": {
+            "headquarters": {
+                "city": "Lahore",
+                "country": "Pakistan"
+            },
+            "branches": [
+                {
+                    "city": "Karachi",
+                    "employees_count": 50
+                },
+                {
+                    "city": "Islamabad",
+                    "employees_count": 40
+                }
+            ]
+        }
+    }
+}
