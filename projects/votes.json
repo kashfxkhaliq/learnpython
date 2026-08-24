@@ -1,0 +1,21 @@
+{
+    "candidates": [
+        {
+            "id": 1,
+            "name": "Ali",
+            "votes": 0
+        },
+        {
+            "id": 2,
+            "name": "Sara",
+            "votes": 1
+        },
+        {
+            "id": 3,
+            "name": "Ahmed",
+            "votes": 0
+        }
+    ],
+    "total_votes": 1,
+    "winner": ""
+}
