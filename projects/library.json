@@ -1,0 +1,46 @@
+{
+    "users": {
+        "user1": {
+            "pin": "1234",
+            "borrowed_books": [],
+            "transactions": []
+        },
+        "user2": {
+            "pin": "4567",
+            "borrowed_books": [],
+            "transactions": []
+        },
+        "user3": {
+            "pin": "7890",
+            "borrowed_books": [],
+            "transactions": []
+        }
+    },
+    "books": [
+        {
+            "title": "Networking",
+            "author": "Archemedus",
+            "available": true
+        },
+        {
+            "title": "Python Basics",
+            "author": "Guido van Rossum",
+            "available": true
+        },
+        {
+            "title": "Atomic Habits",
+            "author": "James Clear",
+            "available": true
+        },
+        {
+            "title": "Deep Work",
+            "author": "Cal Newport ",
+            "available": true
+        },
+        {
+            "title": "C Programming Language",
+            "author": "Dennis Ritchie ",
+            "available": true
+        }
+    ]
+}
